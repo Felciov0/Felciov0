@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 🤙
 
-<!--
-**Felciov0/Felciov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Feliciano
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou tentando conclurir o segunda trimestre a tempo;
+- Só estou nesse site pro que o ALura mandou
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiser pode me mandar mensagem, só não vou responder 📫
+
+joao.juchinievski@escola.pr.gov.br
+
+![](https://media.tenor.com/ST1lP-W_V_oAAAAd/cj-gta.gif)
